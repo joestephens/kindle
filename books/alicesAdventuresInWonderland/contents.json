@@ -1,0 +1,52 @@
+{
+  "contents": [
+    {
+      "chapter": "CHAPTER I. Down the Rabbit-Hole",
+      "file": "chapter1.txt"
+    },
+    {
+      "chapter": "CHAPTER II. The Pool of Tears",
+      "file": "chapter2.txt"
+    },    
+    {
+      "chapter": "CHAPTER III. A Caucus-Race and a Long Tale",
+      "file": "chapter3.txt"
+    },    
+    {
+      "chapter": "CHAPTER IV. The Rabbit Sends in a Little Bill",
+      "file": "chapter4.txt"
+    }, 
+    {
+      "chapter": "CHAPTER V. Advice from a Caterpillar",
+      "file": "chapter5.txt"
+    }, 
+    {
+      "chapter": "CHAPTER VI. Pig and Pepper",
+      "file": "chapter6.txt"
+    }, 
+    {
+      "chapter": "CHAPTER VII. A Mad Tea-Party",
+      "file": "chapter7.txt"
+    }, 
+    {
+      "chapter": "CHAPTER VIII. The Queen’s Croquet-Ground",
+      "file": "chapter8.txt"
+    }, 
+    {
+      "chapter": "CHAPTER IX. The Mock Turtle’s Story",
+      "file": "chapter9.txt"
+    }, 
+    {
+      "chapter": "CHAPTER X. The Lobster Quadrille",
+      "file": "chapter10.txt"
+    }, 
+    {
+      "chapter": "CHAPTER XI. Who Stole the Tarts?",
+      "file": "chapter11.txt"
+    }, 
+    {
+      "chapter": "CHAPTER XII. Alice’s Evidence",
+      "file": "chapter12.txt"
+    } 
+  ]
+}

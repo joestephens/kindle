@@ -1,0 +1,52 @@
+{
+  "contents": [
+    {
+      "chapter": "I. A Scandal in Bohemia",
+      "file": "chapter1.txt"
+    },
+    {
+      "chapter": "II. The Red-Headed League",
+      "file": "chapter2.txt"
+    },    
+    {
+      "chapter": "III. A Case of Identity",
+      "file": "chapter3.txt"
+    },    
+    {
+      "chapter": "IV. The Boscombe Valley Mystery",
+      "file": "chapter4.txt"
+    }, 
+    {
+      "chapter": "V. The Five Orange Pips",
+      "file": "chapter5.txt"
+    }, 
+    {
+      "chapter": "VI. The Man with the Twisted Lip",
+      "file": "chapter6.txt"
+    }, 
+    {
+      "chapter": "VII. The Adventure of the Blue Carbuncle",
+      "file": "chapter7.txt"
+    }, 
+    {
+      "chapter": "VIII. The Adventure of the Speckled Band",
+      "file": "chapter8.txt"
+    }, 
+    {
+      "chapter": "IX. The Adventure of the Engineer’s Thumb",
+      "file": "chapter9.txt"
+    }, 
+    {
+      "chapter": "X. The Adventure of the Noble Bachelor",
+      "file": "chapter10.txt"
+    }, 
+    {
+      "chapter": "XI. The Adventure of the Beryl Coronet",
+      "file": "chapter11.txt"
+    }, 
+    {
+      "chapter": "XII. The Adventure of the Copper Beeches",
+      "file": "chapter12.txt"
+    } 
+  ]
+}
