@@ -1,0 +1,17 @@
+{
+  "name": "kindle",
+  "version": "1.0.0",
+  "description": "An e-reader app",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Joe Stephens",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  },
+  "dependencies": {
+    "blessed": "^0.1.81"
+  }
+}
