@@ -150,7 +150,8 @@ Interface.prototype = {
       },
       scrollable: true,
       alwaysScroll: true,
-      keys: true
+      keys: true,
+      mouse: true
     })
 
     // make sure we can select the element
